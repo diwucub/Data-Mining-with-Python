@@ -12,7 +12,7 @@ Please find the associated tutorials in each folder. When you run some .ipynb fi
 
 Acknowledgement
 
-The creation of this work received tremendous support from my graduate assisants,Ajay Sadananda and Bhawneet Singh, who shared many insightful ideas and developed many interesting and useful tutorials in support my Data Mining in person class at CU Boulder. Many of their ideas and tutorials are adopted in this book to benefit our readers. The creation of this work was greatly influenced by the comments and suggestions from my students and colleagues at CU Boulder. I wouldn’t accomplish this work without their inputs.
+The creation of this work received tremendous support from my graduate assisants, Ajay Sadananda and Bhawneet Singh, who shared many insightful ideas and developed many interesting and useful tutorials in support my Data Mining in person class at CU Boulder. Many of their ideas and tutorials are adopted in this book to benefit our readers. The creation of this work was greatly influenced by the comments and suggestions from my students and colleagues at CU Boulder. I wouldn’t accomplish this work without their inputs.
 
 The creation of this work was supported by Open CU Boulder 2022-2023, a grant funded by the Colorado Department of Higher Education with additional support from the CU Office of the President, CU Office of Academic Affairs, CU Boulder Office of the Provost, and CU Boulder University Libraries.
 
