@@ -1,4 +1,4 @@
-Data Statistical Understanding is the process of gaining insights and knowledge about the data through statistical analysis. This step involves tasks such as descriptive statistics, probability distributions, hypothesis testing, and inferential statistics. The goal is to understand the characteristics of the data, identify patterns, and make predictions about future data.\\
+Data Statistical Understanding is the process of gaining insights and knowledge about the data through statistical analysis. This step involves tasks such as descriptive statistics, probability distributions, hypothesis testing, and inferential statistics. The goal is to understand the characteristics of the data, identify patterns, and make predictions about future data.
 
 There are several Python packages that are commonly used for Data Statistical Understanding, including:
 
